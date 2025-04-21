@@ -107,7 +107,7 @@ div.stButton > button:first-child:hover {
 </style>
 """, unsafe_allow_html=True)
 
-data_folder = "数据集"
+data_folder = "Datasets"
 bg_path = resource_path(os.path.join(data_folder, "Background.png"))
 add_bg_from_local(bg_path)
 
